@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssarse",
+        "uuid": 24704420,
+        "checksum": "jqa1g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
